@@ -1,11 +1,11 @@
 storeId,storeName,ourSpecials,offer,thumb,rating
-100,Garbe,"Home Food, North Indian","10%","https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/zoecoxnubcvdley21ybs",3.2
-101,Kakatiya Mess,"Andhra, Biryani","","https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/zoecoxnubcvdley21ybs",2
-102,Gwenore,"Home Food, North Indian","20%","https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/zoecoxnubcvdley21ybs",4.3
-103,Lowry,"Home Food, North Indian","","https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/zoecoxnubcvdley21ybs",3.5
-104,Iphlgenia,"Home Food, North Indian","5%","https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/zoecoxnubcvdley21ybs",2.8
-105,Leifeste,"Home Food, North Indian","10%","https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/zoecoxnubcvdley21ybs",4.4
-106,Autrey,"Home Food, North Indian","30%","https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/zoecoxnubcvdley21ybs",1.6
-107,Katrine,"Home Food, North Indian","50%","https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/zoecoxnubcvdley21ybs",2.9
-108,Ogren,"Home Food, North Indian","50%","https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/zoecoxnubcvdley21ybs",2.4
-109,Vasista,"Biryani, Tandoor, Chinese, North Indian, South Indian","20%","https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/zoecoxnubcvdley21ybs",4.4
+100,Garbe,"Home Food, North Indian","10%","https://source.unsplash.com/user/c_v_r/100x100",3.2
+101,Kakatiya Mess,"Andhra, Biryani","","https://source.unsplash.com/user/c_v_r/100x100",2
+102,Gwenore,"Home Food, North Indian","20%","https://source.unsplash.com/user/c_v_r/100x100",4.3
+103,Lowry,"Home Food, North Indian","","https://source.unsplash.com/user/c_v_r/100x100",3.5
+104,Iphlgenia,"Home Food, North Indian","5%","https://source.unsplash.com/user/c_v_r/100x100",2.8
+105,Leifeste,"Home Food, North Indian","10%","https://source.unsplash.com/user/c_v_r/100x100",4.4
+106,Autrey,"Home Food, North Indian","30%","https://source.unsplash.com/user/c_v_r/100x100",1.6
+107,Katrine,"Home Food, North Indian","50%","https://source.unsplash.com/user/c_v_r/100x100",2.9
+108,Ogren,"Home Food, North Indian","50%","https://source.unsplash.com/user/c_v_r/100x100",2.4
+109,Vasista,"Biryani, Tandoor, Chinese, North Indian, South Indian","20%","https://source.unsplash.com/user/c_v_r/100x100",4.4
